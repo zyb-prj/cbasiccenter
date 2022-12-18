@@ -1,0 +1,3 @@
+/Users/zhangyanbin/Desktop/code_ws/cbasiccenter/cmake-build-debug/CMakeFiles/cbasiccenter.dir
+/Users/zhangyanbin/Desktop/code_ws/cbasiccenter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangyanbin/Desktop/code_ws/cbasiccenter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
